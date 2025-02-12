@@ -4,7 +4,7 @@ function soma(vitorias, derrotas) {
   }
   
   // Usando a função soma para calcular o saldo de vitórias
-  let vitorias = soma(50, 2); // Aqui você subtrai 50 - 2
+  let vitorias = soma(88, 4); // Aqui você subtrai 50 - 2
   
   let nivel = "";
   
